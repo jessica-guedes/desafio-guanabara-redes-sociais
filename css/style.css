@@ -6,7 +6,7 @@ body{
     font-family: 'Poppins', sans-serif;
     text-align: center;
     padding: 20px;
-    background-image: linear-gradient(to right, #9e75fa, #c166e0) ;
+    background-image: linear-gradient(to right, #b55cd3, #d38deb) ;
 }
 
 h1{
@@ -14,7 +14,7 @@ h1{
     font-size: 20px;
     font-weight: 100;
     color:#CE5DB7;
-    padding: 10px;
+    padding: 0px;
     max-width: 70%;
     margin: 20px auto 20px auto;
 }
@@ -35,15 +35,15 @@ p{
 }
 
 .contatos{
-    background-color: 
-    padding: 10px;
+    padding-top: 0px;
 }
 
 .menu-contatos{
     display: flex;
     justify-content: space-between;
-    max-width: 500px;
-    margin: 0 auto;
+    max-width: 300px;
+    margin:0 auto;
+    ;
 }
 
 .menu-contatos li {
@@ -62,13 +62,17 @@ section{
 }
 
 main{
-    background-color: #000000;
+    background-color: #252525;
     border-radius: 10px;
-    padding: 10px 10px 30px 10px;
+    padding: 10px 10px 1000px 10px;
     width: 80%;
+    height: 100%;
     margin: 0 auto;
 }
 
+img{
+    padding-top: 50px;
+}
 
 
 
