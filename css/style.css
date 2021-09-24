@@ -32,8 +32,8 @@ p{
     padding: 10px;
 }
 
-.contatos{
-    padding-top: 0px;
+.contatos ul{
+    margin: 0 auto;
 }
 
 .menu-contatos{
@@ -41,7 +41,8 @@ p{
     justify-content: space-between;
     max-width: 200px;
     margin:0 auto;
-    ;
+    margin-top: -50px
+    
 }
 
 .menu-contatos li {
@@ -51,9 +52,9 @@ p{
 
 
 section{
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
-    background-color:#CE5DB7 ;
+    background-color:hsla(312, 54%, 59%, 0.466) ;
     padding: 10px;
     border-radius: 10px;
     margin-top: 20px;
@@ -70,13 +71,14 @@ main{
 }
 
 img{
-    padding-top: 50px;
+    padding-top: 80px;
+
 }
 
 div#playlist{
     background-color: #CE5DB7;
     padding: 5px;
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
 }
 
