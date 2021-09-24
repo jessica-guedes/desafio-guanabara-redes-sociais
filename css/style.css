@@ -14,8 +14,6 @@ h1{
     font-size: 20px;
     font-weight: 100;
     color:#CE5DB7;
-    padding: 0px;
-    max-width: 70%;
     margin: 20px auto 20px auto;
 }
 
@@ -31,7 +29,7 @@ p{
     text-indent: 50px;
     font-size: 15px;
     line-height: 1,5;
-    padding-bottom: 30px;
+    padding: 10px;
 }
 
 .contatos{
@@ -41,24 +39,25 @@ p{
 .menu-contatos{
     display: flex;
     justify-content: space-between;
-    max-width: 300px;
+    max-width: 200px;
     margin:0 auto;
     ;
 }
 
 .menu-contatos li {
-    text-decoration: none;
-    margin: 0 auto;
+    text-decoration: ;
+    margin: ;
 }
 
 
 section{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     background-color:#CE5DB7 ;
     padding: 10px;
     border-radius: 10px;
     margin-top: 20px;
+    margin-bottom: 50px;
 }
 
 main{
@@ -73,6 +72,14 @@ main{
 img{
     padding-top: 50px;
 }
+
+div#playlist{
+    background-color: #CE5DB7;
+    padding: 5px;
+    width: 80%;
+    margin: 0 auto;
+}
+
 
 
 
